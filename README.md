@@ -1,2 +1,37 @@
-# Google_capstone_case_study
-Google Data Analytics Capstone - Case Study 1: How does a bike-share navigate speedy success?
+## Introduction
+After completing seven courses of the Google Data Analytics Course, I'm finally here at the capstone project!
+
+It is great to have the opportunity to bring together everything I have learned throughout the programme and revisit the key concepts and skills covered in each course.
+
+Through this capstone project, which focuses on a bike-share business, I hope to gain more hands-on experience in applying data analytics techniques to real-world business scenarios. More importantly, I aim to strengthen my understanding of data analytics, build a solid foundation in the field, and develop the practical skills and confidence needed to pursue a career in the data analytics industry.
+
+## What I Have Learned Before the Capstone Project
+The steps of the data analysis process are: **Ask, Prepare, Process, Analyse, Share and Act**. All these topics are covered one by one in the course:
+
+
+**Course 1. Foundations: Data, Data, Everywhere**
+Introduces the fundamentals of data analytics, including the data analysis process, the role of a data analyst, analytical thinking, and the tools commonly used in the industry (e.g. SQL, Excel). It also covers data ecosystems and the importance of data-driven decision-making.
+
+2. Ask Questions to Make Data-Driven Decisions
+
+Focuses on developing analytical thinking and asking effective questions to solve business problems. It introduces the six phases of data analysis (Ask, Prepare, Process, Analyse, Share and Act), structured thinking, and the use of spreadsheets to organise and understand data.
+
+3. Prepare Data for Exploration
+
+Explores how to collect, organise and manage data for analysis. Key topics include data types, data formats, databases, data collection methods, data ethics, and understanding the importance of data integrity and unbiased data.
+
+4. Process Data from Dirty to Clean
+
+Covers the process of cleaning and transforming data to ensure accuracy, consistency and reliability. It introduces spreadsheet functions and SQL techniques to identify and correct errors, handle inconsistencies and prepare datasets for analysis.
+
+5. Analyse Data to Answer Questions
+
+Focuses on using data to identify patterns, discover relationships and answer business questions. It develops practical skills in spreadsheet calculations, data aggregation, SQL queries and data analysis techniques to generate meaningful insights.
+
+6. Share Data Through the Art of Visualization
+
+Introduces the principles of effective data visualisation and communication. It explores how to create charts, graphs and dashboards using Tableau, and how to present analytical findings clearly to stakeholders to support informed decision-making.
+
+7. Data Analysis with R Programming
+
+Introduces R programming as a tool for data analysis. It covers programming fundamentals, data structures, packages and data manipulation, as well as using R and RStudio to clean, analyse and visualise data.
