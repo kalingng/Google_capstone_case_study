@@ -30,7 +30,7 @@ Introduces the principles of effective data visualisation and communication. It 
 **Course 7. Introduction to Data Analysis Using Python**
 Introduces Python as a programming language for data analysis. It covers fundamental Python concepts, including variables, data types, data structures and programming logic. It also explores how to use Python libraries such as Pandas and NumPy to import, clean, manipulate and analyse datasets, building practical skills for working with real-world data.
 
-**8. Google Data Analytics Capstone: Complete a Case Study**
+**Course 8. Google Data Analytics Capstone: Complete a Case Study**
 Brings together the knowledge and skills gained throughout the previous seven courses through a practical, real-world data analytics case study. It provides an opportunity to apply the six phases of data analysis (Ask, Prepare, Process, Analyse, Share and Act) to solve a business problem. The project involves asking relevant questions, preparing and cleaning data, analysing datasets, identifying insights, and presenting findings and recommendations to stakeholders. It helps build practical experience, strengthen analytical thinking and develop a portfolio project to demonstrate job-ready data analytics skills.
 
 
